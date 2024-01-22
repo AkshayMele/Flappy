@@ -1,0 +1,40 @@
+running clean
+'build\lib' does not exist -- can't clean it
+'build\bdist.win-amd64' does not exist -- can't clean it
+'build\scripts-3.11' does not exist -- can't clean it
+running bdist_wheel
+running build
+d:\projects\mine\msc\software development\floppy github\flappy\.pybuilder\plugins\cpython-3.11.7.final.0\Lib\site-packages\setuptools\_distutils\cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+!!
+
+        ********************************************************************************
+        Please avoid running ``setup.py`` directly.
+        Instead, use pypa/build, pypa/installer, pypa/build or
+        other standards-based tools.
+
+        See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+        ********************************************************************************
+
+!!
+  self.initialize_options()
+installing to build\bdist.win-amd64\wheel
+running install
+running install_egg_info
+running egg_info
+writing flappy_bird.egg-info\PKG-INFO
+writing dependency_links to flappy_bird.egg-info\dependency_links.txt
+writing namespace_packages to flappy_bird.egg-info\namespace_packages.txt
+writing top-level names to flappy_bird.egg-info\top_level.txt
+reading manifest file 'flappy_bird.egg-info\SOURCES.txt'
+writing manifest file 'flappy_bird.egg-info\SOURCES.txt'
+Copying flappy_bird.egg-info to build\bdist.win-amd64\wheel\.\flappy_bird-1.0.dev0-py3.11.egg-info
+running install_scripts
+creating build\bdist.win-amd64\wheel\flappy_bird-1.0.dev0.dist-info\WHEEL
+creating 'dist\flappy_bird-1.0.dev0-py3-none-any.whl' and adding 'build\bdist.win-amd64\wheel' to it
+adding 'flappy_bird-1.0.dev0.dist-info/METADATA'
+adding 'flappy_bird-1.0.dev0.dist-info/WHEEL'
+adding 'flappy_bird-1.0.dev0.dist-info/namespace_packages.txt'
+adding 'flappy_bird-1.0.dev0.dist-info/top_level.txt'
+adding 'flappy_bird-1.0.dev0.dist-info/zip-safe'
+adding 'flappy_bird-1.0.dev0.dist-info/RECORD'
+removing build\bdist.win-amd64\wheel

@@ -1,0 +1,7 @@
+setup.py
+flappy_bird.egg-info/PKG-INFO
+flappy_bird.egg-info/SOURCES.txt
+flappy_bird.egg-info/dependency_links.txt
+flappy_bird.egg-info/namespace_packages.txt
+flappy_bird.egg-info/top_level.txt
+flappy_bird.egg-info/zip-safe
