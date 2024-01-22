@@ -10,7 +10,7 @@ The Flappy Bird game code is written in Python using the Pygame library. It foll
 
 - Code is organized into classes and functions for better modularity.
 - Different aspects of the game (Flappy, Pipes, Ground) are encapsulated in separate classes.
-  -   [Flappy]([https://github.com/AkshayMele/Flappy](https://github.com/AkshayMele/Flappy/blob/a006a395329948c6fd898608b0079feb04e4a6df/flappy.py#L30C1-L30C36))
+  -   [Flappy](https://github.com/AkshayMele/Flappy](https://github.com/AkshayMele/Flappy/blob/a006a395329948c6fd898608b0079feb04e4a6df/flappy.py#L30C1-L30C36))
   -   [Pipes](https://github.com/AkshayMele/Flappy/blob/4340c052b6150355953bd76d7652a2b4c3fd5648/flappy.py#L62C1-L63C1)
   -   [Ground](https://github.com/AkshayMele/Flappy/blob/4340c052b6150355953bd76d7652a2b4c3fd5648/flappy.py#L89C1-L90C1)
 
