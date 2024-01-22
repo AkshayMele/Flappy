@@ -26,10 +26,12 @@ This is a simple implementation of the classic Flappy Bird game using Python and
 
    ```bash
    git clone https://github.com/your-username/flappy-bird.git
+   
 2. Install the required dependencies:
 
-    '''bash
+   ```bash
    pip install pygame
+   
 3. Run the game:
 
    ```bash
