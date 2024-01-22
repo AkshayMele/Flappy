@@ -16,7 +16,7 @@ This is a simple implementation of the classic Flappy Bird game using Python and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AkshayMele/flappy-bird.git
+   git clone https://github.com/AkshayMele/Flappy.git
    
 2. Install the required dependencies:
 
