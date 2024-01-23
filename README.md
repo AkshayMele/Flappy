@@ -104,7 +104,7 @@ I have conducted 3 unit tets each of them testing different fucntionalities of t
 + [Test bird movement](https://github.com/AkshayMele/Flappy/blob/main/tests/test_bird.py)
 + [Test collision detection](https://github.com/AkshayMele/Flappy/blob/main/tests/test_collision_detection.py)
 + [Test pipe spawning](https://github.com/AkshayMele/Flappy/blob/main/tests/test_pipe.py)
-+ 
+
 ### 10. IDE
 
 #### Visual Studio Code is used for the develoment of this project
