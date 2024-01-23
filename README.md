@@ -51,12 +51,12 @@ Commit History: https://github.com/AkshayMele/Flappy/commits
 ### 2. UML 
 UML Diagrams used for the development of the code
 
-+ [Dynamic-Activity diagram](https://github.com/AkshayMele/Flappy/blob/e5762f29c848a854fd93c3bb8c706a884be5b54d/Docs/UML/Activity%20Diagram.png)
-+ [Class Diagram](https://github.com/AkshayMele/Flappy/blob/e5762f29c848a854fd93c3bb8c706a884be5b54d/Docs/UML/Class%20Diagram.png)
-+ [Deployment Diagram](https://github.com/AkshayMele/Flappy/blob/ea0f8bdda77d33fb648399f100892a39dd2f041a/Docs/UML/Deployment%20Digram%20for%20Flappy.png)
-+ [User Case Diagram](https://github.com/AkshayMele/Flappy/blob/ea0f8bdda77d33fb648399f100892a39dd2f041a/Docs/UML/Use_case_diagram.png)
++ [Dynamic-Activity diagram](https://github.com/AkshayMele/Flappy/blob/main/Docs/UML/Activity%20Diagram.png)
++ [Class Diagram](https://github.com/AkshayMele/Flappy/blob/main/Docs/UML/Class%20Diagram.png)
++ [Deployment Diagram](https://github.com/AkshayMele/Flappy/blob/main/Docs/UML/Class%20Diagram.png)
++ [User Case Diagram](https://github.com/AkshayMele/Flappy/blob/main/Docs/UML/Use_case_diagram.png)
 
-Files: https://github.com/AkshayMele/Flappy/tree/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/UML
+Files: https://github.com/AkshayMele/Flappy/tree/main/Docs/UML
 
 
 ### Requirements Engineering
@@ -82,14 +82,18 @@ Two variants are used and by mapping requirements in 2 different tools.
 ### 4. DDD
 Creation with Miro For:
 
-+ [Event Storming Chart](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD/DDD_Event_Storming.png)
-+ [Core Domain Chart](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD/DDD_core_domain_chart.png)
-+ [Domain Relations Chart](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD/DDD_domain_relation_chart.png)
++ [Event Storming Chart](https://github.com/AkshayMele/Flappy/blob/main/Docs/DDD/DDD_Event_Storming.png)
++ [Core Domain Chart](https://github.com/AkshayMele/Flappy/blob/main/Docs/DDD/DDD_core_domain_chart.png)
++ [Domain Relations Chart](https://github.com/AkshayMele/Flappy/blob/main/Docs/DDD/DDD_domain_relation_chart.png)
 
-Find all the images here : https://github.com/AkshayMele/Flappy/tree/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD
+Find all the images here : https://github.com/AkshayMele/Flappy/tree/main/Docs/DDD
 
 ### 5. Clean Code Development
+<<<<<<< HEAD
+[Clean Code Development - Documentation](https://github.com/AkshayMele/Flappy/blob/main/Docs/Clean%20Code%20Development.md)
+=======
 [Clean Code Development - Documentation](https://github.com/AkshayMele/Flappy/blob/f2b28cccad782e8c5504af1107e007093005c143/Docs/Clean%20Code%20Development.md)
+>>>>>>> f5c4b361f715e9c434eefc08d0b4b31783f6e5e6
 
 ### 7. Functional Programming
 
