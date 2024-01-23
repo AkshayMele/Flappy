@@ -40,3 +40,5 @@ api_key = '9ba0084a8bd54480b92172347242301'
 # Get and display weather information
 get_weather_and_display = main(api_key)
 get_weather_and_display()
+
+############# NOTE : API KEY EXPIRES ON 6TH FEB #############
