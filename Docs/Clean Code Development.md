@@ -16,8 +16,8 @@ The Flappy Bird game code is written in Python using the Pygame library. It foll
 
 ### 2. Meaningful Variable Names
 
-- Descriptive variable names are used, enhancing code readability.
-- Examples include `flappy_start_position`, `scrolling_speed`, `game_score`, etc.
+- Descriptive and simple variable names are used, enhancing code readability. 
+- Examples include `flappy_start_position`, `scrolling_speed`, `game_score`, `floor_image` etc.
 
 ### 3. Code Comments
 
@@ -38,23 +38,18 @@ The Flappy Bird game code is written in Python using the Pygame library. It foll
 
 - Constants are declared at the beginning for easy configuration and maintenance.
 
-### 7. Code Reusability
-
-- Common functionality is encapsulated into functions, enhancing reusability.
-- Examples include the `exit_game()` function for quitting the game and the `game_main()` function for the main game loop.
-
-### 8. Error Handling
+### 7. Error Handling
 
 - Basic error handling is implemented, such as checking for collisions and handling game over scenarios.
 
-### 9. Game States
+### 8. Game States
 
 - The game has clear states, such as the menu, running, and game over states.
 
 ## Areas for Improvement
 
 - Although the code is well-structured, further documentation or comments could enhance understanding.
-- Consider breaking down complex functions further to improve readability.
+- Could add more descriptive comments and docstrings to break down some algorithms used.
 - Potential for more descriptive function and class names.
 
 ## Conclusion

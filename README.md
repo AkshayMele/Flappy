@@ -91,8 +91,8 @@ Find all the images here : https://github.com/AkshayMele/Flappy/tree/6639b3e44be
 ### 5. Clean Code Development
 [Clean Code Development - Documentation](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/Clean%20Code%20Development.md)
 
+### 7. Functional Programming
 
-### 6. Functional Programming
 The link to the Functional programming python code:&rarr; [Click Here]()
 
 &rarr; [only final data structures]()
@@ -107,7 +107,7 @@ The link to the Functional programming python code:&rarr; [Click Here]()
 
 &rarr; [Functions as parameters and return values]()
 
-### 7. IDE
+### 8. IDE
 
 #### Visual Studio Code is used for the develoment of this project
 
