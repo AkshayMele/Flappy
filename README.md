@@ -69,7 +69,7 @@ Two variants are used and by mapping requirements in 2 different tools.
 - Professional version
   - Jira: hhttps://akshay326.atlassian.net/jira/software/projects/FLAPPY/boards/2
 
-### 6. Metrics
+### Metrics
 
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=AkshayMele_Flappy&metric=bugs)](https://sonarcloud.io/summary/new_code?id=AkshayMele_Flappy)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=AkshayMele_Flappy&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=AkshayMele_Flappy)
@@ -88,9 +88,24 @@ Creation with Miro For:
 
 Find all the images here : https://github.com/AkshayMele/Flappy/tree/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD
 
-
-### 7. Clean Code Development
+### Clean Code Development
 [Clean Code Development - Documentation](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/Clean%20Code%20Development.md)
+
+
+### Functional Programming
+The link to the Functional programming python code:&rarr; [Click Here]()
+
+&rarr; [only final data structures]()
+
+&rarr; [(mostly) side effect free functions]()
+
+&rarr; [use of anonymous Function]()
+
+&rarr; [Use of Closure Function]()
+
+&rarr; [the use of higher-order functions/functions as parameters and return values]()
+
+&rarr; [Functions as parameters and return values]()
 
 ### 10. IDE
 
@@ -110,17 +125,3 @@ Find all the images here : https://github.com/AkshayMele/Flappy/tree/6639b3e44be
 -``` Ctrl + Shift + / ``` (Add line comment)
 
 
-### 11. Functional Programming
-The link to the Functional programming python code:&rarr; [Click Here]()
-
-&rarr; [only final data structures]()
-
-&rarr; [(mostly) side effect free functions]()
-
-&rarr; [use of anonymous Function]()
-
-&rarr; [Use of Closure Function]()
-
-&rarr; [the use of higher-order functions/functions as parameters and return values]()
-
-&rarr; [Functions as parameters and return values]()
