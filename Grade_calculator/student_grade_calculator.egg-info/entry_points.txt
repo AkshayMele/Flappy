@@ -1,2 +1,0 @@
-[console_scripts]
-calculate_grades = grade:student_grade_calculator
