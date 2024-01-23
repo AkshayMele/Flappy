@@ -30,17 +30,17 @@ This is a simple implementation of the classic Flappy Bird game using Python and
 
 ### TABLE OF CONTENTS 
 
-- Git
+- GIT
 - UML
-- Requirements Engneering
-- Analysis
+- REQUIREMENT ENGINEERING
+- ANALYSIS
 - DDD
-- Metrics
-- Clean Code Development
-- Build Management
-- Unit tests
+- METRICS
+- CLEAN CODE DEVELOPMENT
+- BUILD MANAGEMENT
+- UNIT TESTS
 - IDE
-- Functional Programming 
+- FUNCTIONAL PROGRAMMING 
 
 ### 1. Git
 Usage of GitHub for the whole project time
