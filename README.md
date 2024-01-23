@@ -69,7 +69,7 @@ Two variants are used and by mapping requirements in 2 different tools.
   - Incase there is access with Jira, I'm attaching the [screenshot](https://github.com/AkshayMele/Flappy/blob/main/Docs/Jira.png) of the page.
 
 ### 4. Analysis
-[Checklists and analysis](https://github.com/AkshayMele/Flappy/blob/main/Docs/Analysis.pdf)
+[Checklists and Analysis](https://github.com/AkshayMele/Flappy/blob/main/Docs/Analysis.pdf)
 
 ### 5. DDD
 Creation with Miro For:
