@@ -43,12 +43,12 @@ This is a simple implementation of the classic Flappy Bird game using Python and
 - IDE
 - Functional Programming 
 
-### Git
+### 1. Git
 Usage of GitHub for the whole project time
 
 Commit History: https://github.com/AkshayMele/Flappy/commits
 
-### UML 
+### 2. UML 
 UML Diagrams used for the development of the code
 
 + [Dynamic-Activity diagram](https://github.com/AkshayMele/Flappy/blob/e5762f29c848a854fd93c3bb8c706a884be5b54d/Docs/UML/Activity%20Diagram.png)
@@ -69,7 +69,7 @@ Two variants are used and by mapping requirements in 2 different tools.
 - Professional version
   - Jira: hhttps://akshay326.atlassian.net/jira/software/projects/FLAPPY/boards/2
 
-### 6. Metrics
+### 3. Metrics
 
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=AkshayMele_Flappy&metric=bugs)](https://sonarcloud.io/summary/new_code?id=AkshayMele_Flappy)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=AkshayMele_Flappy&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=AkshayMele_Flappy)
@@ -79,7 +79,7 @@ Two variants are used and by mapping requirements in 2 different tools.
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=AkshayMele_Flappy&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=AkshayMele_Flappy)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=AkshayMele_Flappy&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=AkshayMele_Flappy)
 
-### DDD
+### 4. DDD
 Creation with Miro For:
 
 + [Event Storming Chart](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD/DDD_Event_Storming.png)
@@ -88,11 +88,26 @@ Creation with Miro For:
 
 Find all the images here : https://github.com/AkshayMele/Flappy/tree/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD
 
-
-### 7. Clean Code Development
+### 5. Clean Code Development
 [Clean Code Development - Documentation](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/Clean%20Code%20Development.md)
 
-### 10. IDE
+
+### 6. Functional Programming
+The link to the Functional programming python code:&rarr; [Click Here]()
+
+&rarr; [only final data structures]()
+
+&rarr; [(mostly) side effect free functions]()
+
+&rarr; [use of anonymous Function]()
+
+&rarr; [Use of Closure Function]()
+
+&rarr; [the use of higher-order functions/functions as parameters and return values]()
+
+&rarr; [Functions as parameters and return values]()
+
+### 7. IDE
 
 #### Visual Studio Code is used for the develoment of this project
 
@@ -110,17 +125,3 @@ Find all the images here : https://github.com/AkshayMele/Flappy/tree/6639b3e44be
 -``` Ctrl + Shift + / ``` (Add line comment)
 
 
-### 11. Functional Programming
-The link to the Functional programming python code:&rarr; [Click Here]()
-
-&rarr; [only final data structures]()
-
-&rarr; [(mostly) side effect free functions]()
-
-&rarr; [use of anonymous Function]()
-
-&rarr; [Use of Closure Function]()
-
-&rarr; [the use of higher-order functions/functions as parameters and return values]()
-
-&rarr; [Functions as parameters and return values]()
