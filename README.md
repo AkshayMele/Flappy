@@ -118,16 +118,14 @@ Find all the images here : https://github.com/AkshayMele/Flappy/tree/main/Docs/D
 
 ### 11. Functional Programming
 
-The link to the Functional programming python code:&rarr; [Click Here]()
+I have created a small [Weather APP](https://github.com/AkshayMele/Flappy/blob/main/Weather/weather.py) to demonstrate fucntional programming.
 
-&rarr; [only final data structures]()
+&rarr; [Only final data structure used in the code]()
 
-&rarr; [(mostly) side effect free functions]()
+&rarr; [(Side effect free functions](https://github.com/AkshayMele/Flappy/blob/main/Weather/weather.py#L13C1-L13C79)
 
-&rarr; [use of anonymous Function]()
+&rarr; [Usage of anonymous and Closure Function](https://github.com/AkshayMele/Flappy/blob/main/Weather/weather.py#L26)
 
-&rarr; [Use of Closure Function]()
+&rarr; [Use of higher-order function as parameters and return values](https://github.com/AkshayMele/Flappy/blob/main/Weather/weather.py#L3C1-L3C62)
 
-&rarr; [the use of higher-order functions/functions as parameters and return values]()
-
-&rarr; [Functions as parameters and return values]()
+&rarr; [Functions as parameters and return values](https://github.com/AkshayMele/Flappy/blob/main/Weather/weather.py#L22)
