@@ -89,11 +89,8 @@ Creation with Miro For:
 Find all the images here : https://github.com/AkshayMele/Flappy/tree/main/Docs/DDD
 
 ### 5. Clean Code Development
-<<<<<<< HEAD
+
 [Clean Code Development - Documentation](https://github.com/AkshayMele/Flappy/blob/main/Docs/Clean%20Code%20Development.md)
-=======
-[Clean Code Development - Documentation](https://github.com/AkshayMele/Flappy/blob/f2b28cccad782e8c5504af1107e007093005c143/Docs/Clean%20Code%20Development.md)
->>>>>>> f5c4b361f715e9c434eefc08d0b4b31783f6e5e6
 
 ### 7. Functional Programming
 
