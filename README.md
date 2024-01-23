@@ -96,8 +96,17 @@ Find all the images here : https://github.com/AkshayMele/Flappy/tree/main/Docs/D
 
 ### 8.Build Management
 
+Using Pybuilder to build the Project which enables us to install and import as a package for usage in other projects
+
+→ With Pybuilder: Find files [here](https://github.com/AkshayMele/Flappy/tree/main/target)
 
 ### 9. Unit tests
+
+I have conducted 3 unit tets each of them testing different fucntionalities of the code
++ [Test bird movement](https://github.com/AkshayMele/Flappy/blob/main/tests/test_bird.py)
++ [Test collision detection](https://github.com/AkshayMele/Flappy/blob/main/tests/test_collision_detection.py)
++ [Test pipe spawning](https://github.com/AkshayMele/Flappy/blob/main/tests/test_pipe.py)
+The unit test codes are provided below
 
 ### 10. IDE
 
