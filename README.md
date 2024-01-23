@@ -122,7 +122,7 @@ I have created a small [Weather APP](https://github.com/AkshayMele/Flappy/blob/m
 
 &rarr; [Only final data structure used in the code]()
 
-&rarr; [(Side effect free functions](https://github.com/AkshayMele/Flappy/blob/main/Weather/weather.py#L13C1-L13C79)
+&rarr; [Side effect free functions](https://github.com/AkshayMele/Flappy/blob/main/Weather/weather.py#L13C1-L13C79)
 
 &rarr; [Usage of anonymous and Closure Function](https://github.com/AkshayMele/Flappy/blob/main/Weather/weather.py#L26)
 
