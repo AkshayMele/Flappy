@@ -43,12 +43,12 @@ This is a simple implementation of the classic Flappy Bird game using Python and
 - IDE
 - Functional Programming 
 
-### 1. Git
+### Git
 Usage of GitHub for the whole project time
 
 Commit History: https://github.com/AkshayMele/Flappy/commits
 
-### 2. UML
+### UML 
 UML Diagrams used for the development of the code
 
 + [Dynamic-Activity diagram](https://github.com/AkshayMele/Flappy/blob/e5762f29c848a854fd93c3bb8c706a884be5b54d/Docs/UML/Activity%20Diagram.png)
@@ -59,7 +59,7 @@ UML Diagrams used for the development of the code
 Files: https://github.com/AkshayMele/Flappy/tree/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/UML
 
 
-### 3. Requirements Engineering
+### Requirements Engineering
 Two variants are used and by mapping requirements in 2 different tools.
 
 - Self-made version
@@ -68,16 +68,6 @@ Two variants are used and by mapping requirements in 2 different tools.
   
 - Professional version
   - Jira: hhttps://akshay326.atlassian.net/jira/software/projects/FLAPPY/boards/2
-  
-### 5. DDD
-Creation with Miro For:
-
-+ [Event Storming Chart](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD/DDD_Event_Storming.png)
-+ [Core Domain Chart](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD/DDD_core_domain_chart.png)
-+ [Domain Relations Chart](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD/DDD_domain_relation_chart.png)
-
-Find all the images here : https://github.com/AkshayMele/Flappy/tree/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD
-
 
 ### 6. Metrics
 
@@ -89,24 +79,36 @@ Find all the images here : https://github.com/AkshayMele/Flappy/tree/6639b3e44be
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=AkshayMele_Flappy&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=AkshayMele_Flappy)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=AkshayMele_Flappy&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=AkshayMele_Flappy)
 
+### DDD
+Creation with Miro For:
+
++ [Event Storming Chart](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD/DDD_Event_Storming.png)
++ [Core Domain Chart](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD/DDD_core_domain_chart.png)
++ [Domain Relations Chart](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD/DDD_domain_relation_chart.png)
+
+Find all the images here : https://github.com/AkshayMele/Flappy/tree/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD
+
+
 ### 7. Clean Code Development
 [Clean Code Development - Documentation](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/Clean%20Code%20Development.md)
 
 ### 10. IDE
 
-#### Visual Studio Code
-&rarr; *Own Key Shortcut*:
+#### Visual Studio Code is used for the develoment of this project
 
--``` Ctrl + Shift + / ``` (Add line comment)
-
-#### &rarr; *Build-in*:
+&rarr; *Build-in*:
 + ``` F5``` (Debug)
 + ``` Shift + Alt + A ```(Toggle block comment)
 + ``` Ctrl + F ``` (To Find in the Script)
 + ``` Ctrl + C/ Ctrl + V``` (Copy/paste)
 + ```Shift+ Alt + Arrow UP/DOWN``` (To Copy line(s) up or down)
 + ```Ctrl + Z / Ctrl + Y``` (To Undo/Redo)
-+ ```Ctrl + /``` ( Comment/Uncomment selection) 
++ ```Ctrl + /``` ( Comment/Uncomment selection)
+
+&rarr; *Custom Key Shortcuts used*:
+
+-``` Ctrl + Shift + / ``` (Add line comment)
+
 
 ### 11. Functional Programming
 The link to the Functional programming python code:&rarr; [Click Here]()
