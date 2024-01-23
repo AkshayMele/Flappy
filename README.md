@@ -1,4 +1,4 @@
-# Flappy Bird Game in Python using Pygame
+# Flappy Bird Game in Python
 
 ![Flappy Bird](assets/Flappy.png)
 
