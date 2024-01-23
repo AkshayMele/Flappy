@@ -96,10 +96,11 @@ Find all the images here : https://github.com/AkshayMele/Flappy/tree/6639b3e44be
 #### Visual Studio Code
 &rarr; *Own Key Shortcut*:
 
--``` Alt + R ``` (Run)
+-``` Ctrl + Shift + / ``` (Add line comment)
 
 #### &rarr; *Build-in*:
 + ``` F5``` (Debug)
++ ``` Shift + Alt + A ```(Toggle block comment)
 + ``` Ctrl + F ``` (To Find in the Script)
 + ``` Ctrl + C/ Ctrl + V``` (Copy/paste)
 + ```Shift+ Alt + Arrow UP/DOWN``` (To Copy line(s) up or down)
