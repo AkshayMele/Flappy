@@ -57,9 +57,10 @@ UML Diagrams used for the development of the code
 + [User Case Diagram](https://github.com/AkshayMele/Flappy/blob/main/Docs/UML/Use_case_diagram.png)
 
 Files: https://github.com/AkshayMele/Flappy/tree/main/Docs/UML
+Files: https://github.com/AkshayMele/Flappy/tree/main/Docs/UML
 
 
-### Requirements Engineering
+### 3. Requirements Engineering
 Two variants are used and by mapping requirements in 2 different tools.
 
 - Self-made version
@@ -67,9 +68,20 @@ Two variants are used and by mapping requirements in 2 different tools.
 
   
 - Professional version
-  - Jira: hhttps://akshay326.atlassian.net/jira/software/projects/FLAPPY/boards/2
+  - Jira: https://akshay326.atlassian.net/jira/software/projects/FLAPPY/boards/2
 
-### 3. Metrics
+### 4. Analysis
+
+### 5. DDD
+Creation with Miro For:
+
++ [Event Storming Chart](https://github.com/AkshayMele/Flappy/blob/main/Docs/DDD/DDD_Event_Storming.png)
++ [Core Domain Chart](https://github.com/AkshayMele/Flappy/blob/main/Docs/DDD/DDD_core_domain_chart.png)
++ [Domain Relations Chart](https://github.com/AkshayMele/Flappy/blob/main/Docs/DDD/DDD_domain_relation_chart.png)
+
+Find all the images here : https://github.com/AkshayMele/Flappy/tree/main/Docs/DDD
+
+### 6. Metrics
 
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=AkshayMele_Flappy&metric=bugs)](https://sonarcloud.io/summary/new_code?id=AkshayMele_Flappy)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=AkshayMele_Flappy&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=AkshayMele_Flappy)
@@ -82,33 +94,21 @@ Two variants are used and by mapping requirements in 2 different tools.
 ### 4. DDD
 Creation with Miro For:
 
-+ [Event Storming Chart](https://github.com/AkshayMele/Flappy/blob/main/Docs/DDD/DDD_Event_Storming.png)
-+ [Core Domain Chart](https://github.com/AkshayMele/Flappy/blob/main/Docs/DDD/DDD_core_domain_chart.png)
-+ [Domain Relations Chart](https://github.com/AkshayMele/Flappy/blob/main/Docs/DDD/DDD_domain_relation_chart.png)
++ [Event Storming Chart](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD/DDD_Event_Storming.png)
++ [Core Domain Chart](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD/DDD_core_domain_chart.png)
++ [Domain Relations Chart](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD/DDD_domain_relation_chart.png)
 
-Find all the images here : https://github.com/AkshayMele/Flappy/tree/main/Docs/DDD
+Find all the images here : https://github.com/AkshayMele/Flappy/tree/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD
 
 ### 5. Clean Code Development
+[Clean Code Development - Documentation](https://github.com/AkshayMele/Flappy/blob/f2b28cccad782e8c5504af1107e007093005c143/Docs/Clean%20Code%20Development.md)
 
-[Clean Code Development - Documentation](https://github.com/AkshayMele/Flappy/blob/main/Docs/Clean%20Code%20Development.md)
+### 8.Build Management
 
-### 7. Functional Programming
 
-The link to the Functional programming python code:&rarr; [Click Here]()
+### 9. Unit tests
 
-&rarr; [only final data structures]()
-
-&rarr; [(mostly) side effect free functions]()
-
-&rarr; [use of anonymous Function]()
-
-&rarr; [Use of Closure Function]()
-
-&rarr; [the use of higher-order functions/functions as parameters and return values]()
-
-&rarr; [Functions as parameters and return values]()
-
-### 8. IDE
+### 10. IDE
 
 #### Visual Studio Code is used for the develoment of this project
 
@@ -125,4 +125,19 @@ The link to the Functional programming python code:&rarr; [Click Here]()
 
 -``` Ctrl + Shift + / ``` (Add line comment)
 
+### 10. Functional Programming
+
+The link to the Functional programming python code:&rarr; [Click Here]()
+
+&rarr; [only final data structures]()
+
+&rarr; [(mostly) side effect free functions]()
+
+&rarr; [use of anonymous Function]()
+
+&rarr; [Use of Closure Function]()
+
+&rarr; [the use of higher-order functions/functions as parameters and return values]()
+
+&rarr; [Functions as parameters and return values]()
 
