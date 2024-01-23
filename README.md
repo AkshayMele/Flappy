@@ -87,6 +87,7 @@ Find all the images here : https://github.com/AkshayMele/Flappy/tree/6639b3e44be
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=AkshayMele_Flappy&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=AkshayMele_Flappy)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=AkshayMele_Flappy&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=AkshayMele_Flappy)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=AkshayMele_Flappy&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=AkshayMele_Flappy)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=AkshayMele_Flappy&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=AkshayMele_Flappy)
 
 ### 7. Clean Code Development
 [Clean Code Development - Documentation](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/Clean%20Code%20Development.md)
