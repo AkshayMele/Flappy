@@ -74,7 +74,6 @@ Two variants are used and by mapping requirements in 2 different tools.
 
 ### 5. DDD
 Creation with Miro For:
-
 + [Event Storming Chart](https://github.com/AkshayMele/Flappy/blob/main/Docs/DDD/DDD_Event_Storming.png)
 + [Core Domain Chart](https://github.com/AkshayMele/Flappy/blob/main/Docs/DDD/DDD_core_domain_chart.png)
 + [Domain Relations Chart](https://github.com/AkshayMele/Flappy/blob/main/Docs/DDD/DDD_domain_relation_chart.png)
