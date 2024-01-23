@@ -91,16 +91,7 @@ Find all the images here : https://github.com/AkshayMele/Flappy/tree/main/Docs/D
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=AkshayMele_Flappy&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=AkshayMele_Flappy)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=AkshayMele_Flappy&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=AkshayMele_Flappy)
 
-### 4. DDD
-Creation with Miro For:
-
-+ [Event Storming Chart](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD/DDD_Event_Storming.png)
-+ [Core Domain Chart](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD/DDD_core_domain_chart.png)
-+ [Domain Relations Chart](https://github.com/AkshayMele/Flappy/blob/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD/DDD_domain_relation_chart.png)
-
-Find all the images here : https://github.com/AkshayMele/Flappy/tree/6639b3e44be5649fb75ae6ddeaac0e36979ac441/Docs/DDD
-
-### 5. Clean Code Development
+### 7. Clean Code Development
 [Clean Code Development - Documentation](https://github.com/AkshayMele/Flappy/blob/f2b28cccad782e8c5504af1107e007093005c143/Docs/Clean%20Code%20Development.md)
 
 ### 8.Build Management
@@ -125,7 +116,7 @@ Find all the images here : https://github.com/AkshayMele/Flappy/tree/6639b3e44be
 
 -``` Ctrl + Shift + / ``` (Add line comment)
 
-### 10. Functional Programming
+### 11. Functional Programming
 
 The link to the Functional programming python code:&rarr; [Click Here]()
 
@@ -140,4 +131,3 @@ The link to the Functional programming python code:&rarr; [Click Here]()
 &rarr; [the use of higher-order functions/functions as parameters and return values]()
 
 &rarr; [Functions as parameters and return values]()
-
