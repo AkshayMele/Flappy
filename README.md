@@ -124,7 +124,7 @@ I have conducted 3 unit tets each of them testing different fucntionalities of t
 
 ### 11. Functional Programming
 
-I have created a small [Weather APP](https://github.com/AkshayMele/Flappy/blob/main/Weather/weather.py) to demonstrate fucntional programming.
+I have created a small [Weather APP](https://github.com/AkshayMele/Flappy/blob/main/Weather/weather.py) to demonstrate functional programming.
 
 &rarr; [Only final data structure used in the code]()
 
