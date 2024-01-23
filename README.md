@@ -57,8 +57,6 @@ UML Diagrams used for the development of the code
 + [User Case Diagram](https://github.com/AkshayMele/Flappy/blob/main/Docs/UML/Use_case_diagram.png)
 
 Files: https://github.com/AkshayMele/Flappy/tree/main/Docs/UML
-Files: https://github.com/AkshayMele/Flappy/tree/main/Docs/UML
-
 
 ### 3. Requirements Engineering
 Two variants are used and by mapping requirements in 2 different tools.
