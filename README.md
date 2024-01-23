@@ -43,12 +43,12 @@ This is a simple implementation of the classic Flappy Bird game using Python and
 - IDE
 - Functional Programming 
 
-### 1.Git
+### 1. Git
 Usage of GitHub for the whole project time
 
 Commit History: https://github.com/AkshayMele/Flappy/commits
 
-### 2.UML
+### 2. UML
 UML Diagrams used for the development of the code
 
 + [Dynamic-Activity diagram](https://github.com/AkshayMele/Flappy/blob/e5762f29c848a854fd93c3bb8c706a884be5b54d/Docs/UML/Activity%20Diagram.png)
@@ -108,7 +108,7 @@ Find all the images here : https://github.com/AkshayMele/Flappy/tree/6639b3e44be
 + ```Ctrl + Z / Ctrl + Y``` (To Undo/Redo)
 + ```Ctrl + /``` ( Comment/Uncomment selection) 
 
-### 11.Functional Programming
+### 11. Functional Programming
 The link to the Functional programming python code:&rarr; [Click Here]()
 
 &rarr; [only final data structures]()
