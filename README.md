@@ -66,7 +66,7 @@ Two variants are used and by mapping requirements in 2 different tools.
   
 - Professional version
   - Jira: https://akshay326.atlassian.net/jira/software/projects/FLAPPY/boards/2
-  - Incase there is access with Jira, I'm attaching the [screenshot](https://github.com/AkshayMele/Flappy/blob/main/Docs/Jira.png) of the page.
+  - Incase there is access issues with Jira, I'm attaching the [screenshot](https://github.com/AkshayMele/Flappy/blob/main/Docs/Jira.png) of the page.
 
 ### 4. Analysis
 [Checklists and Analysis](https://github.com/AkshayMele/Flappy/blob/main/Docs/Analysis.pdf)
