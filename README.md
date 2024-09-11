@@ -118,7 +118,7 @@ I have conducted 3 unit tets each of them testing different fucntionalities of t
 + ```Ctrl + Z / Ctrl + Y``` (To Undo/Redo)
 + ```Ctrl + /``` ( Comment/Uncomment selection)
 
-&rarr; *Custom Key Shortcuts used*:
+&rarr;  *Custom Key Shortcuts used*:
 
 -``` Ctrl + Shift + / ``` (Add line comment)
 
